@@ -1,12 +1,7 @@
-# 343 - Structure of Programming Languages
-CIS 343 Notes and code samples.
+# Git commands
 
-Most content from the Sebesta Programming Languages book, used in class.
-
-Schedule
-
-| Week/Date | Topic | Reading | Assignment | Notes |
-|------|-------|---------|------------|-------|
-| 1  | [Syllabus](./syllabus.md "Class syllabus") and Introductions | Chapter 1 | | |
-| 1  | [Overview](https://gitpitch.com/irawoodring/343/master?p=overview "Overview slides") | | |
-| 1  | [Language Evaluation](https://gitpitch.com/irawoodring/343/master?p=language-evaluation "Language evaluation slides") | | [Homework 1](./assignments/github.md "Homework 1")| Due January 17 by 8:00 a.m. |
+The basic `git` commands I'm going to be using often are probably `branch`, 
+`add`, `commit`, `clone`, `push`, `pull`, `merge`, and `rm`. For school this
+semester, `pull` will likely only be used during group projects. I'll also
+probably end up muttering `init` a lot because I'm a slob and don't keep my 
+work to the same directory.
